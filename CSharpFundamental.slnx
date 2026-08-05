@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="DecrementOperators/DecrementOperators.csproj" />
+  <Project Path="IncrementOperators/IncrementOperators.csproj" />
   <Project Path="LogicaltOperators/LogicaltOperators.csproj" />
   <Project Path="RelationalOperators/RelationalOperators.csproj" />
 </Solution>
