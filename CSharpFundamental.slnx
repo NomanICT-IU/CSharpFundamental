@@ -1,9 +1,15 @@
 <Solution>
+  <Project Path="Conditions/Conditions.csproj" />
   <Project Path="DecrementOperators/DecrementOperators.csproj" />
+  <Project Path="DoWhile/DoWhile.csproj" />
+  <Project Path="ForLoop/ForLoop.csproj" />
   <Project Path="IncrementOperators/IncrementOperators.csproj" />
   <Project Path="LogicaltOperators/LogicaltOperators.csproj" />
+  <Project Path="NestedConditions/NestedConditions.csproj" />
   <Project Path="RelationalOperators/RelationalOperators.csproj" />
   <Project Path="StringExample1/StringExample1.csproj" />
   <Project Path="StringExample2/StringExample2.csproj" />
   <Project Path="SubString/SubString.csproj" />
+  <Project Path="SwitchConditions/SwitchConditions.csproj" />
+  <Project Path="WhileLoop/WhileLoop.csproj" />
 </Solution>
