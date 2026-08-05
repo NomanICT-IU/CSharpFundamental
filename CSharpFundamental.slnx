@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LogicaltOperators/LogicaltOperators.csproj" />
+  <Project Path="RelationalOperators/RelationalOperators.csproj" />
+</Solution>
