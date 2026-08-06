@@ -1,11 +1,19 @@
 <Solution>
+  <Folder Name="/InternelAccessModifer/">
+    <Project Path="AnotherAssembly/AnotherAssembly.csproj" />
+    <Project Path="Logger/Logger.csproj" />
+  </Folder>
   <Project Path="Conditions/Conditions.csproj" />
   <Project Path="DecrementOperators/DecrementOperators.csproj" />
   <Project Path="DoWhile/DoWhile.csproj" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" />
   <Project Path="ForLoop/ForLoop.csproj" />
   <Project Path="IncrementOperators/IncrementOperators.csproj" />
   <Project Path="LogicaltOperators/LogicaltOperators.csproj" />
   <Project Path="NestedConditions/NestedConditions.csproj" />
+  <Project Path="PrivateAccessModifier/PrivateAccessModifier.csproj" />
+  <Project Path="ProtectedAccessModifier/ProtectedAccessModifier.csproj" />
+  <Project Path="PublicAccessModifier/PublicAccessModifier.csproj" />
   <Project Path="RelationalOperators/RelationalOperators.csproj" />
   <Project Path="StringExample1/StringExample1.csproj" />
   <Project Path="StringExample2/StringExample2.csproj" />
