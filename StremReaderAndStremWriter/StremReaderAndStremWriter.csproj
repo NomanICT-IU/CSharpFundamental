@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F524BE3B-DF43-40CD-9A99-7B2C78A92699}</ProjectGuid>
+    <ProjectGuid>{3DB18E33-F38B-4B87-B6A3-1A02E8D0E0C3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AnotherAssembly</RootNamespace>
-    <AssemblyName>AnotherAssembly</AssemblyName>
+    <RootNamespace>StremReaderAndStremWriter</RootNamespace>
+    <AssemblyName>StremReaderAndStremWriter</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,10 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\GenralCalculator\GenralCalculator.csproj">
-      <Project>{00b64d63-f072-4e85-898f-6e6529cacd09}</Project>
-      <Name>GenralCalculator</Name>
-    </ProjectReference>
+    <Content Include="noman.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

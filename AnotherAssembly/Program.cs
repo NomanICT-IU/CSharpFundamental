@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using GenralCalculator;
+using System;
 
 namespace AnotherAssembly
 {
@@ -10,6 +7,21 @@ namespace AnotherAssembly
     {
         static void Main(string[] args)
         {
+            try
+            {
+
+                double result = Calculator.Division(10, 0);
+                Console.WriteLine(result);
+
+            }
+            catch (DivideByZeroException ex)
+            {
+
+
+                Console.WriteLine(ex.Message);
+            }
+            Console.ReadKey();
+
         }
     }
 }

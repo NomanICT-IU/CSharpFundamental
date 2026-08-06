@@ -1,9 +1,13 @@
 <Solution>
   <Folder Name="/InternelAccessModifer/">
     <Project Path="AnotherAssembly/AnotherAssembly.csproj" Id="f524be3b-df43-40cd-9a99-7b2c78a92699" />
+    <Project Path="GenralCalculator/GenralCalculator.csproj" Id="00b64d63-f072-4e85-898f-6e6529cacd09" />
     <Project Path="Logger/Logger.csproj" Id="65111015-b217-43e0-8027-6b7d911dd67f" />
   </Folder>
+  <Project Path="ArrayExample1/ArrayExample1.csproj" Id="a772b23e-3538-4561-9a00-c928833677a4" />
+  <Project Path="ArrayExample2/ArrayExample2.csproj" Id="93e68dd9-e8a3-4151-8928-7d1a2cad6c01" />
   <Project Path="Conditions/Conditions.csproj" Id="52245387-40b1-44a6-8b1a-51e5b5e03324" />
+  <Project Path="CopyValue/CopyValue.csproj" Id="460427a8-6eaf-4112-b185-f2a0b7978b15" />
   <Project Path="DecrementOperators/DecrementOperators.csproj" Id="76451387-47ab-4df4-ba38-429faa0ce6d6" />
   <Project Path="DoWhile/DoWhile.csproj" Id="68c29da8-52a1-40b1-9336-b868d4c5ff39" />
   <Project Path="ExceptionHandling/ExceptionHandling.csproj" Id="24fa3eb6-af9e-41c0-9bda-82e754b99b79" />
@@ -12,10 +16,15 @@
   <Project Path="LogicaltOperators/LogicaltOperators.csproj" Id="21eabcd3-780e-4371-b14d-345c5f2144d6" />
   <Project Path="Method/Method.csproj" Id="0072e769-b2a3-40b8-8b3c-c5901279510d" />
   <Project Path="NestedConditions/NestedConditions.csproj" Id="f80a5b12-79de-40fb-a881-88e800831101" />
+  <Project Path="OutValueType/OutValueType.csproj" Id="8581b6a8-2bf9-48c2-8a82-10affb0e7ef8" />
   <Project Path="PrivateAccessModifier/PrivateAccessModifier.csproj" Id="9790a657-77bc-44e7-b540-be9161927b2b" />
   <Project Path="ProtectedAccessModifier/ProtectedAccessModifier.csproj" Id="311cece0-4701-432f-8502-f84db97a4f95" />
   <Project Path="PublicAccessModifier/PublicAccessModifier.csproj" Id="554d4174-aac5-42e4-a6e9-da1ef7572f98" />
+  <Project Path="RecursiveExample2/RecursiveExample2.csproj" Id="63cc4cce-c197-40f4-af74-42353eb57c2b" />
+  <Project Path="RecursiveMethod/RecursiveMethod.csproj" Id="87697863-2fc8-4bd6-b70f-e679e34585c5" />
+  <Project Path="RefValueType/RefValueType.csproj" Id="cd6fea64-c931-42a2-b279-7a5d4a04a218" />
   <Project Path="RelationalOperators/RelationalOperators.csproj" Id="6fdf91b3-3642-4784-b0b5-76ddb92287a6" />
+  <Project Path="StremReaderAndStremWriter/StremReaderAndStremWriter.csproj" Id="3db18e33-f38b-4b87-b6a3-1a02e8d0e0c3" />
   <Project Path="StringExample1/StringExample1.csproj" Id="91858743-c613-4b86-8644-70fcf7648635" />
   <Project Path="StringExample2/StringExample2.csproj" Id="3b99844b-2e59-4ebe-b55d-8575c189a4f1" />
   <Project Path="SubString/SubString.csproj" Id="d3f6ca98-ca6e-4276-8cba-9f11c835d19a" />
