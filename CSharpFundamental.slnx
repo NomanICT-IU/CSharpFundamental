@@ -1,23 +1,24 @@
 <Solution>
   <Folder Name="/InternelAccessModifer/">
-    <Project Path="AnotherAssembly/AnotherAssembly.csproj" />
-    <Project Path="Logger/Logger.csproj" />
+    <Project Path="AnotherAssembly/AnotherAssembly.csproj" Id="f524be3b-df43-40cd-9a99-7b2c78a92699" />
+    <Project Path="Logger/Logger.csproj" Id="65111015-b217-43e0-8027-6b7d911dd67f" />
   </Folder>
-  <Project Path="Conditions/Conditions.csproj" />
-  <Project Path="DecrementOperators/DecrementOperators.csproj" />
-  <Project Path="DoWhile/DoWhile.csproj" />
-  <Project Path="ExceptionHandling/ExceptionHandling.csproj" />
-  <Project Path="ForLoop/ForLoop.csproj" />
-  <Project Path="IncrementOperators/IncrementOperators.csproj" />
-  <Project Path="LogicaltOperators/LogicaltOperators.csproj" />
-  <Project Path="NestedConditions/NestedConditions.csproj" />
-  <Project Path="PrivateAccessModifier/PrivateAccessModifier.csproj" />
-  <Project Path="ProtectedAccessModifier/ProtectedAccessModifier.csproj" />
-  <Project Path="PublicAccessModifier/PublicAccessModifier.csproj" />
-  <Project Path="RelationalOperators/RelationalOperators.csproj" />
-  <Project Path="StringExample1/StringExample1.csproj" />
-  <Project Path="StringExample2/StringExample2.csproj" />
-  <Project Path="SubString/SubString.csproj" />
-  <Project Path="SwitchConditions/SwitchConditions.csproj" />
-  <Project Path="WhileLoop/WhileLoop.csproj" />
+  <Project Path="Conditions/Conditions.csproj" Id="52245387-40b1-44a6-8b1a-51e5b5e03324" />
+  <Project Path="DecrementOperators/DecrementOperators.csproj" Id="76451387-47ab-4df4-ba38-429faa0ce6d6" />
+  <Project Path="DoWhile/DoWhile.csproj" Id="68c29da8-52a1-40b1-9336-b868d4c5ff39" />
+  <Project Path="ExceptionHandling/ExceptionHandling.csproj" Id="24fa3eb6-af9e-41c0-9bda-82e754b99b79" />
+  <Project Path="ForLoop/ForLoop.csproj" Id="f655e35f-6498-41fe-ba6a-c7d655db6273" />
+  <Project Path="IncrementOperators/IncrementOperators.csproj" Id="2f9d35a0-2868-483d-afd0-cb513ad7d7c4" />
+  <Project Path="LogicaltOperators/LogicaltOperators.csproj" Id="21eabcd3-780e-4371-b14d-345c5f2144d6" />
+  <Project Path="Method/Method.csproj" Id="0072e769-b2a3-40b8-8b3c-c5901279510d" />
+  <Project Path="NestedConditions/NestedConditions.csproj" Id="f80a5b12-79de-40fb-a881-88e800831101" />
+  <Project Path="PrivateAccessModifier/PrivateAccessModifier.csproj" Id="9790a657-77bc-44e7-b540-be9161927b2b" />
+  <Project Path="ProtectedAccessModifier/ProtectedAccessModifier.csproj" Id="311cece0-4701-432f-8502-f84db97a4f95" />
+  <Project Path="PublicAccessModifier/PublicAccessModifier.csproj" Id="554d4174-aac5-42e4-a6e9-da1ef7572f98" />
+  <Project Path="RelationalOperators/RelationalOperators.csproj" Id="6fdf91b3-3642-4784-b0b5-76ddb92287a6" />
+  <Project Path="StringExample1/StringExample1.csproj" Id="91858743-c613-4b86-8644-70fcf7648635" />
+  <Project Path="StringExample2/StringExample2.csproj" Id="3b99844b-2e59-4ebe-b55d-8575c189a4f1" />
+  <Project Path="SubString/SubString.csproj" Id="d3f6ca98-ca6e-4276-8cba-9f11c835d19a" />
+  <Project Path="SwitchConditions/SwitchConditions.csproj" Id="10b2e823-ea31-47d7-a40d-d8b5cdcad44b" />
+  <Project Path="WhileLoop/WhileLoop.csproj" Id="260c13fd-c877-471b-af21-9038f93adaf0" />
 </Solution>

@@ -7,10 +7,13 @@ namespace ExceptionHandling
         static void Main(string[] args)
         {
             var service = new Service();
-            Console.WriteLine("Entrer a vaid user Id:");
-            int userId = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Entrer a vaid user Id:");
+            //int userId = Convert.ToInt32(Console.ReadLine());
             try
             {
+                Console.WriteLine("Entrer a vaid user Id:");
+                int userId = Convert.ToInt32(Console.ReadLine());
+
                 try
                 {
                     //Console.WriteLine("Entrer a vaid user Id:");
